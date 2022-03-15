@@ -1,0 +1,31 @@
+
+.title[data-v-10d2053a] {
+  display: flex;
+  font-size: 13px;
+}
+.title-item[data-v-10d2053a] {
+  flex: 1;
+}
+.active[data-v-10d2053a] {
+  color: var(--color-tint);
+}
+.back[data-v-10d2053a] {
+  /*background-color: red;*/
+}
+/*.back img {*/
+/*  margin-top: 10px;*/
+
+/*}*/
+.back-icon[data-v-10d2053a] {
+  width: 28px;
+  height: 28px;
+  vertical-align: middle;
+}
+
+
+.detail_swiper[data-v-90e3827e] {
+  /*background-color: red;*/
+  position: relative;
+  overflow: hidden;
+}
+
